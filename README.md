@@ -1,8 +1,8 @@
-# dsgsdf ![github badge](https://img.shields.io/badge/license-Apache_License_2.0-red.svg)  
+# ReadMe generator ![github badge](https://img.shields.io/badge/license-Apache_License_2.0-red.svg)  
 
   ## Description
 
-  sdfg
+  this task is to use node.js to create or generate a ReadMe, consist of answering a series of questions such as title,instalation,description,instructions,license,email and username that will be used
 
   ## Table of Contents
 
@@ -15,11 +15,11 @@
 
 ## Installation
 
-sdfg
+creating a repository on github, cloning it and creating a file on your computer and then runing in the terminal
 
 ## Usage
 
-sdfgsd
+is to create your personalized and unique ReadMe
 
   
   ## License
@@ -29,16 +29,16 @@ sdfgsd
   
 ## Contributing
 
-gsdf
+
 
 ## Test
 
-sdfg
+
 
 ## Question 
 
-Please check out my other work. My github profile is [sdfg](https://github.com/sdfg)
+Please check out my other work. My github profile is [SebasAristi](https://github.com/SebasAristi)
  
-if you have any additional questions please contact me at sdfg
+if you have any additional questions please contact me at Aristizabalsebastian93@gmail.com
 
 
